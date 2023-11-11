@@ -1,9 +1,54 @@
-Week-5:
-=======
+===========
+| WEEK-05 |
+===========
 Hakan:
-dafafadafadsfadaf
-------
+- I started with the Data Insights part.
+- I explored the data and took notes for the data processing part.
+-----------
 Aybek Taha:
 
-------
-Week-6
+===========
+| WEEK-06 |
+===========
+Hakan:
+
+-----------
+Aybek Taha:
+
+-----------
+===========
+| WEEK-07 |
+===========
+Hakan:
+
+-----------
+Aybek Taha:
+
+-----------
+===========
+| WEEK-08 |
+===========
+Hakan:
+
+-----------
+Aybek Taha:
+
+-----------
+===========
+| WEEK-09 |
+===========
+Hakan:
+
+-----------
+Aybek Taha:
+
+-----------
+===========
+| WEEK-10 |
+===========
+Hakan:
+
+-----------
+Aybek Taha:
+
+-----------
