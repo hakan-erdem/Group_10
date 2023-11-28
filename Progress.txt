@@ -21,7 +21,8 @@ Aybek Taha:
 | WEEK-07 |
 +---------+
 Hakan:
-
+- I updated the data processing notebook
+- I made progress with managing the null values. Created a sensible filling strategy and filled to features. Made some feature engineering on the dataset.
 -----------
 Aybek Taha:
 
@@ -30,7 +31,8 @@ Aybek Taha:
 | WEEK-08 |
 +---------+
 Hakan:
-
+- I finalized the data processing notebook
+- I finished the data processing part by applying three different encoding methods to the data and write them to different csv files.
 -----------
 Aybek Taha:
 
@@ -39,7 +41,10 @@ Aybek Taha:
 | WEEK-09 |
 +---------+
 Hakan:
-
+- Started the first modeling attempts
+- Decided which dataset to work with for further studies (compared each encoding method's results to decide)
+- Got the first results with RandomForest, AdaBoost, and XGBoost. Plotted their results, and checked their feature importance results.
+- Decided to add LinearRegression to the models list.
 -----------
 Aybek Taha:
 
