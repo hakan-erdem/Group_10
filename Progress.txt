@@ -57,3 +57,22 @@ Aybek Taha:
 Hakan:
 
 -----------
++---------+
+| WEEK-11 |
++---------+
+Hakan:
+- Started to work with side dataset and created a merged dataset
+- Gathered the results of the models with this merged dataset, but the result were not good
+-----------
++---------+
+| WEEK-12 |
++---------+
+Hakan:
+- started fine-tuning and added a neural network model just for fun
+-----------
++---------+
+| WEEK-13 |
++---------+
+Hakan:
+- finalized the fine-tuning and all other work
+-----------
