@@ -44,7 +44,9 @@ Hakan:
 - Started the first modeling attempts
 - Decided which dataset to work with for further studies (compared each encoding method's results to decide)
 - Got the first results with RandomForest, AdaBoost, and XGBoost. Plotted their results, and checked their feature importance results.
-- Decided to add LinearRegression to the models list.
+- Decided to add ElasticNet to the models list.
+- Finished modeling ElasticNet, SVR, KNN, and DecisionTree.
+- Finished writing intermediate report.
 -----------
 Aybek Taha:
 
@@ -53,8 +55,5 @@ Aybek Taha:
 | WEEK-10 |
 +---------+
 Hakan:
-
------------
-Aybek Taha:
 
 -----------
